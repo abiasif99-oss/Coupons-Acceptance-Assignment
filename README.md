@@ -13,18 +13,6 @@ Bar coupons: Examining whether drivers who visit bars more frequently are more l
 
 Coffeehouse coupons: Examining whether regular coffeehouse visitors and other demographic groups demonstrate higher coupon acceptance rates.
 
-Key Questions
-
-What proportion of coffeehouse coupons were accepted?
-
-Does coffeehouse visitation frequency influence coupon acceptance?
-
-Are drivers over the age of 25 who visit coffeehouses more than once a month more likely to accept coffeehouse coupons?
-
-How do passenger type, marital status, occupation, and income relate to coffeehouse coupon acceptance?
-
-Are drivers who visit bars more frequently more likely to accept bar coupons?
-
 Findings and Analysis
 
 1. Bar Coupon Acceptance
